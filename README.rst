@@ -2,9 +2,9 @@
 Configuración de Vim 
 ====================
 
------------------------------------------
-Configuración Básicas de Vim en Archlinux
------------------------------------------
+---------------------------------
+Configuración de Vim en Archlinux
+---------------------------------
 
 :Author: Statick 
 :License: BY-NC-SA_
