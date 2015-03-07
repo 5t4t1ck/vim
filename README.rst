@@ -21,16 +21,16 @@ Instalación
 
 Primero es recomendable instalar dependencias ::
 
-sudo pacman -Sy gvim ctags git python2-pip2
-sudo pip2 install dbgp vim-debug pep8 flake8 pyflakes isort
+    sudo pacman -Sy gvim ctags git python2-pip2
+    sudo pip2 install dbgp vim-debug pep8 flake8 pyflakes isort
 
-Luego descargar el archivo .vimrc ::
+Luego descargar el archivo .vimrc: ::
 
-git clone https://github.com/5t4t1ck/vim  
+    git clone https://github.com/5t4t1ck/vim  
 
-cd vim 
+    cd vim 
 
-cp .vimrc ~/.vimrc 
+    cp .vimrc ~/.vimrc 
 
 Y finalmente abrir vim y esperar a que se instalen los plugins
 
@@ -43,6 +43,6 @@ entre vim y gvim
 Galeria
 =======
 
-**Screenshot Statick 2014** 
+**Screenshot Vim** 
 
 .. image:: http://i.imgur.com/crfNwMM.png
